@@ -30,6 +30,6 @@
 },
 {
   "analytics_engine_datasets": [
-    { "binding": "ANALYTICS_ENGINE", "dataset": "sink-analytics" }
+    { "binding": "ANALYTICS", "dataset": "sink-analytics" }
   ]
 }
